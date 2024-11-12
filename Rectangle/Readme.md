@@ -1,4 +1,4 @@
-# MuOS FolderIcon with transparent fading background and Logo
+# MuOS FolderIcon rectangled with rounded corners and logo
 
 Logos taken from:
 https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
