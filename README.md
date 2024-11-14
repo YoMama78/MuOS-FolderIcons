@@ -1,10 +1,13 @@
 # MuOS FolderIcons
 
-## Retangle
-<img src="https://github.com/YoMama78/MuOS-FolderIcons/blob/main/Rectangle/A2600.png">
+## Rectangle
+<img src="https://github.com/YoMama78/MuOS-FolderIcons/blob/main/Rectangle/A2600.png?raw=true">
 
 ## Transparent
-https://github.com/YoMama78/MuOS-FolderIcons/blob/main/Transparent/A2600.png
+vertically aligned logo with a semi-transparent background
+<br><br>
+<img src="https://github.com/YoMama78/MuOS-FolderIcons/blob/main/Transparent/A2600.png?raw=true">
+<br><br>
 
 # ==INSTALLATION==
 
